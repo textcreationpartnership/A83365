@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments vindication of Iohn Pym Esquire from His Majesties exception against him. Occasioned from his speech delivered at a conference with both Houses Jan. 25. 1641 concerning licenses granted by His Majesties immediate warrant, to many of the chiefe commanders now in the head of the rebells in Ireland, for their transporting thither, since the ports were stopt by both Houses of Parliament, against all Irish papists. In which vindication are, 1. Mr. Pym his speech.  2. His Majesties message concerning his speech.  3. The Commons answer to the message.  4. His Majesties reply to the Commons answer.  5. The Commons answer to the reply. 6. His Majesties second reply. Ordered by the Commons House of Parliament, that Mr. Pym his speech, His Majesties message concerning his speech, the commons answer to the message, His Majesties reply to the Commons answer, the Commons answer to that reply, and His Majesties second reply, be forthwith printed together and published. H. Elsynge Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83365</idno>
+            <idno type="STC">Wing E2152</idno>
+            <idno type="STC">Thomason E55_2</idno>
+            <idno type="STC">ESTC R22746</idno>
+            <idno type="EEBO-CITATION">99871825</idno>
+            <idno type="PROQUEST">99871825</idno>
+            <idno type="VID">155251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E55[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments vindication of Iohn Pym Esquire from His Majesties exception against him. Occasioned from his speech delivered at a conference with both Houses Jan. 25. 1641 concerning licenses granted by His Majesties immediate warrant, to many of the chiefe commanders now in the head of the rebells in Ireland, for their transporting thither, since the ports were stopt by both Houses of Parliament, against all Irish papists. In which vindication are, 1. Mr. Pym his speech.  2. His Majesties message concerning his speech.  3. The Commons answer to the message.  4. His Majesties reply to the Commons answer.  5. The Commons answer to the reply. 6. His Majesties second reply. Ordered by the Commons House of Parliament, that Mr. Pym his speech, His Majesties message concerning his speech, the commons answer to the message, His Majesties reply to the Commons answer, the Commons answer to that reply, and His Majesties second reply, be forthwith printed together and published. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:155251:1" rendition="simple:additions"/>
+THE PARLIAMENTS VINDICATION OF IOHN PYM Eſquire From his Majeſties excepti<g ref="char:EOLhyphen"/>on againſt Him.</p>
+            <p>Occaſioned from his Speech delivered at a Conference with both Houſes, <hi>Jan.</hi> 25. 1641 concerning Licences granted by his Majeſties immediate Warrant, to many of the chiefe Commanders now in the head of the Rebells in <hi>Ireland,</hi> for their tranſporting thither, ſince the Ports were ſtopt by both Houſes of <hi>Parliament,</hi> againſt all <hi>IRISH</hi> Papiſts.</p>
+            <list>
+               <head>In which Vindication are,</head>
+               <item>1. <hi>Mr.</hi> Pym <hi>his Speech.</hi>
+               </item>
+               <item>2. <hi>His Majeſties Meſsage concerning his Speech.</hi>
+               </item>
+               <item>3. <hi>The Commons Anſwer to the Meſsage.</hi>
+               </item>
+               <item>4. <hi>His Majeſties Reply to the Commons Anſwer.</hi>
+               </item>
+               <item>5. <hi>The Commons Anſwer to the Reply.</hi>
+               </item>
+               <item>6. <hi>His Majeſties ſecond Reply.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Ordered by the Commons Houſe of Parliament, that Mr.</hi> Pym <hi>his Speech, His</hi> Majeſties <hi>Meſſage concerning his Speech, The Com<g ref="char:EOLhyphen"/>mons anſwer to the Meſſage, His Majeſties Reply to the Commons Anſwer, The Commons anſwer to that Reply, And His Majeſties ſecond Reply, be forthwith Printed together and Publiſhed.</hi>
+            </p>
+            <p>H. Elſynge Cler. Parl. D. Com.</p>
+            <p>LONDON Printed for <hi>John Bull,</hi> 1643.</p>
+            <pb facs="tcp:155251:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:155251:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 25. 1641.</date>
+               </dateline>
+            </opener>
+            <head>At a Conference betwixt both HOUSES, concerning divers Petitions preſented to the Houſe of Commons; Mr. PYM appointed to manage that Conference.</head>
+            <p>
+               <hi>My Lords,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the Knights, Citizens, and Burgeſ<g ref="char:EOLhyphen"/>ſes aſſembled for the Commons in <hi>Parliament,</hi> to preſent to your Lordſhips divers Petitions, which they have re<g ref="char:EOLhyphen"/>ceived from ſeverall parts, concerning the ſtate of the Kingdome: whereunto they are chiefly moved by that conſtant affection, which they have alwayes expreſt, of maintaining a firm <hi>union</hi> and good <hi>correſpondence</hi> with your Lordſhips; wherein they have ever found much <hi>advantage</hi> and <hi>contentment;</hi> but never held it more important and neceſſary, then at this time, vvherein the <hi>wiſdome</hi> and <hi>reſolution</hi> of <hi>Parliament</hi> have as many great <hi>dangers</hi> and difficulties to paſſe through, as ever heretofore.</p>
+            <p>We are <hi>united</hi> in the publique <hi>truſt,</hi> vvhich is derived from the Common-wealth, in the common <hi>dutie</hi> and <hi>obligation,</hi> vvhereby God doth bind us to the diſcharge of that <hi>truſt:</hi> and the Commons de<g ref="char:EOLhyphen"/>ſire to impart to your Lordſhips vvhatſoever Information or In<g ref="char:EOLhyphen"/>telligence, vvhatſoever Incouragement or Aſſiſtance they have re<g ref="char:EOLhyphen"/>ceived from thoſe ſeverall Countries, vvhich they repreſent, that ſo likewiſe vve may be united in the ſame <hi>intentions</hi> and <hi>endeavours</hi> of improving all to the ſervice of his Majeſty, and the common good of the Kingdome.</p>
+            <p>The Petitions vvhich I am directed to communicate to your Lordſhips, are foure: from <hi>London, Middleſex, Eſſex,</hi> and <hi>Hertfordſhire.</hi> We have received many more, but it vvould take up too much time, and be too great a trouble to peruſe all; and, in theſe foure you may perceive the effect and ſenſe of all: Firſt I am to deſire your Lordſhips to heare them read, and then I ſhall perſue my Inſtructi<g ref="char:EOLhyphen"/>ons in propounding ſome Obſervations out of them.</p>
+            <pb facs="tcp:155251:3"/>
+            <pb n="1" facs="tcp:155251:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="continuation_of_speech">
+            <pb n="2" facs="tcp:155251:4"/>
+            <head>The Petitions being read by foure Members of the Houſe, Mr. <hi>Pym</hi> reſumed his diſcourſe.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>IN theſe foure Petitions you may heare the voice, or rather the cry, of all <hi>England;</hi> and you cannot wonder if the urgencie, the extremitie of the condition wherin we are, do produce ſome earneſtneſſe and vehemencie of expreſſion more then ordinarie; the agonie, terror and perplexitie in which the Kingdome labours, is univerſall, all parts are aff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted with it; and therefore in theſe you may obſerve the groanes and miſerable complaints of all.</p>
+            <p>Divers reaſons may be given why thoſe diſeaſes which are Epidemi<g ref="char:EOLhyphen"/>call are more dangerous then others: 1. The Cauſe of ſuch diſeaſes is univerſall and ſupernall, not from an evill conſtitution, or evill diet, or any other accident: and ſuch cauſes work with more vigour and efficacie, then thoſe which are particular and inferiour. 2. In ſuch diſeaſes there is a communicative qualitie, whereby the malignitie of them is multi<g ref="char:EOLhyphen"/>plied and enforced. 3. They have a converting, transforming power that turns other diſeaſes and evill affections of mens bodies into their owne nature.</p>
+            <p>The common and Epidemicall diſeaſe wherein this Common-wealth lies now gaſping, hath a ſuperior and univerſall cauſe from the evill Counſells and deſignes of thoſe, who under his Majeſtie bear the greateſt ſway in Government. 2. It hath a contagious and infectious qualitie, whereby it is diffuſed and diſperſed through all parts of the Kingdome. 3. It is apt to take in the diſcontents, evill affections, and deſignes of particular perſons to increaſe and fortifie it ſelfe.</p>
+            <p>I ſhall take occ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion from ſeverall branches of thoſe Petitions which your Lordſhips have heard, to obſerve:</p>
+            <list>
+               <item>1. The varietie of Dangers to which this Kingdome is now ſubject.</item>
+               <item>2. The manifold diſtempers which is the cauſe of thoſe dangers.</item>
+               <item>3 The Multiplicitie of thoſe evill Influences, which are the Cauſes of that diſtemper.</item>
+            </list>
+            <p>The firſt Danger is from enemies abroad, this may ſeem a cauſeleſſe and impertinent obſervation at this time ſeeing we are in peace with all Nations about us: But (my Lords) you may be pleaſed to conſider that the ſafetie of the Kingdome ought not to depend upon the will and diſ<g ref="char:EOLhyphen"/>poſition
+<pb n="3" facs="tcp:155251:4"/>
+of our Neighbours, but upon our own ſtrength and Proviſion; Betwixt States there are often ſudden changes, from peace to warre, according to occaſion and advantage. All the States of Chriſtendome are now Armd, and we have no reaſon to believe but that thoſe of great<g ref="char:EOLhyphen"/>eſt power have an evill eye upon us in reſpect of our Religion: and if their private Differences ſhould be compoſed, how dangerouſly, how ſpeedily might thoſe great armies and other preparations now ready, be applyed to ſome enterpriſe and attempt againſt us? if there were no other cauſe, this were ſufficient to make us ſtand upon our Guard; but there are di<g ref="char:EOLhyphen"/>vers more eſpeciall ſymptomes of dangers of this kind.</p>
+            <p>We may perceive by ſeverall Advertiſements from abroad, that they did foreſee our Dangers many Moneths before they broke out; they could foretell the Time and Manner of them, which is a cleare evidence they held intelligence with thoſe which were the contrivers and work<g ref="char:EOLhyphen"/>ers of the preſent troubles.</p>
+            <p>We may have dangerous Traitors and Fugitives now in other parts, who can diſcover the weakneſſe and diſtemper of the Kingdome; who hold Intelligence with the ill affected party here, and by all cunning and ſubtle practices endeavour to incite and provoke other Princes againſt us.</p>
+            <p>Some of the Miniſters of our neighbour Princes may be juſtly ſuſpe<g ref="char:EOLhyphen"/>cted to have had a more immediate hand and operation in the Inſurre<g ref="char:EOLhyphen"/>ction and Rebellion of <hi>Ireland,</hi> many of the Commanders, and moſt of the Souldiers levied for the ſervice of <hi>Spain,</hi> are now joyned with the Rebels there; and thoſe Iriſh Friars, which were imployed by the Spaniſh Ambaſſadour for the making of thoſe Levies, are known to have been chief Incendiaries to this Rebellion, and are ſtill very active in the proſe<g ref="char:EOLhyphen"/>cution and incouragement of it.</p>
+            <p>The Rebels have a ready and ſpeedy ſupply from ſome of our Neigh<g ref="char:EOLhyphen"/>bours. Two Convoyes of Munition and Armes we are certainly infor<g ref="char:EOLhyphen"/>med of: one from <hi>Dunkirke;</hi> the other from <hi>Nantes</hi> in <hi>Britanie:</hi> and cer<g ref="char:EOLhyphen"/>tainly thoſe that are ſo forward to enable others to hurt us, will not for<g ref="char:EOLhyphen"/>beare to hurt us themſelves, aſſoon as they ſhall have meanes and oppor<g ref="char:EOLhyphen"/>tunity to doe it.</p>
+            <p>Another Danger is from the Papiſts and ill-affected parties at home. The Papiſts here are acted by the ſame principles, with thoſe in <hi>Ireland;</hi> many of the moſt active of them have lately been there, which argues an intercourſe and Communication of Counſels, They have ſtill ſtore of
+<pb n="4" facs="tcp:155251:5"/>
+Armes and Munition at their diſpoſing, notwithſtanding all our endeavours to diſarme them; they have a free reſort to the City, and to the Court; they want no opportunities to conſult together; they have the ſame or greater In<g ref="char:EOLhyphen"/>couragements from above, and from about them then ever, in reſpect of the example and ſucceſſe of the Rebels in <hi>Ireland,</hi> and the great confuſions and di<g ref="char:EOLhyphen"/>viſions which by their cunning and ſubtile practiſes are raiſed and fomented amongſt our ſelves at home.</p>
+            <p>3. A third danger is of Tumults and Inſurrections of the meaner ſort of people: by reaſon of their ill vent of cloth, and other Manufactures, whereby great multitudes are ſet on work, who live for the moſt part by their daily get<g ref="char:EOLhyphen"/>tings, and will in a ſhort time be brought to great extremitie, if not imployed; Nothing is more ſharp and preſſing then neceſſity and want; what they can<g ref="char:EOLhyphen"/>not buy they will take, and from them the like neceſſitie will quickly be de<g ref="char:EOLhyphen"/>rived, to the Farmours and Husbandmen; and ſo, grow higher, and involve all in an equalitie of miſery and diſtreſſe, if it be not p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evented. And at this time ſuch tumults will be dangerous, becauſe the Kingdom is full of diſbanded Souldiers and Officers, which will be ready to head and to animate the Multi<g ref="char:EOLhyphen"/>tude to commit Violence with more ſtrength and advantage: and if they once grow into a body, it will be much more difficult to reduce them into Order againe, becauſe neceſſity and want, which are the cauſes of this diſturbance will ſtill increaſe as the effects doe increaſe.</p>
+            <p>A fourth danger is from the Rebells in <hi>Ireland,</hi> not onely in reſpect of that Kingdome, but in reſpect of this: They have ſeazed upon the Body of that Kingdome already, they abound in men of very able bodies, they increaſe in Armes and Munition, they have great hopes of ſupplies from abroad, of in<g ref="char:EOLhyphen"/>couragement here, and are ſure of good entertainment from the Popiſh Party, ſo that they begin to ſpeak already of the tranſporting themſelves hither, and making this Kingdome the ſeat of the Warre.</p>
+            <p>The Diſtemper which hath produced theſe Dangers is various and exceed<g ref="char:EOLhyphen"/>ing violent. Whenſoever nature is hindered in her proper operations and fa<g ref="char:EOLhyphen"/>culties, diſtempers will neceſſarily follow.</p>
+            <p>The obſtructions which have brought us into this diſtemper, are very ma<g ref="char:EOLhyphen"/>ny, ſo that we cannot wonder at the ſtrength and malignity of it. Some of the chiefeſt of theſe obſtructions. I ſhall endeavour to remember.</p>
+            <p n="1">1. The obſtruction of Reformation in matters of Religion: no Grievances are ſharper than thoſe that preſſe upon the tender conſciences of men; and there was never Church or State afflicted with more Grievances of this kind, then we have been. And though they are by the wiſedome of this <hi>Parliament</hi> partly eaſed and diminiſhed, yet many ſtill remaine: and as long as the Biſhops and the corrupt part of the Clergy continue in their Power there will be little hope of Freedome either from the ſence of thoſe which continue or the feare of thoſe which are removed. And of this obſtruction, (my Lords) I muſt cleare the Commons, we are in no part guilty of it<g ref="char:punc">▪</g> ſome good Bills have paſt us, and o<g ref="char:EOLhyphen"/>thers are in preparation, which might have been paſt before this, if we had not
+<pb n="5" facs="tcp:155251:5"/>
+found ſuch ill ſucceſſe in the other. Whatſoever miſchiefe this obſtruction ſhall produce, we are free from it: we may have our part of the Miſery, wee can have no part in the guilt or diſhonour.</p>
+            <p n="2">2. The obſtruction in Trade, it is the Trade that brings food and nouriſh<g ref="char:EOLhyphen"/>ment to the Kingdome, It is that which preſerves and increaſeth the ſtock of the whole, and diſtributes a convenient Portion of maintenance to every part of it<hi>:</hi> therefore ſuch an obſtruction as this muſt needs be dangerous; the Free<g ref="char:EOLhyphen"/>dome of Trade being ſo neceſſary, the benefit ſo important, as that it gives life, ſtrength, and beauty to the whole body of the Common-wealth<hi>:</hi> but I muſt proteſt the Houſe of Commons hath given no cauſe to this Obſtruction; wee have eaſ'd Trade of many Burdens, and heavie Taxes, which are taken off; we have freed it from many hard reſtraints by <hi>Pattents</hi> and <hi>Monopolies;</hi> wee have been willing to part with our owne Priviledges, to give it Incouragement; we have ſought to put the Merchants into Security, and confidence in reſpect of the Tower of <hi>London,</hi> that ſo they might be invited to bring in their Bulli<g ref="char:EOLhyphen"/>on to the Mint, as heretofore they have done<hi>:</hi> and we are no way guilty of the troubles, the feares, and publique dangers which make men withdraw their Stocks, and to keep their Money by them to be ready for ſuch ſodain Exigents, as in theſe great diſtractions we have too much cauſe to expect.</p>
+            <p n="3">3. The obſtruction in the reliefe of <hi>Ireland.</hi> It muſt needs bee accompted a great ſhame and diſhonour to this Kingdome, that our neighbours have ſhewed themſelves more forward to ſupply the Rebells, then we have bin to relieve our diſtreſſed brethren, and fellow Subjects. But I muſt declare that the Houſe of Commons is altogether innocent of any neglect herein. As ſoon as the firſt newes of the Rebellion came over, we undertooke the Warre, not by way of Supply and aide, as in former Rebellions the Subjects have uſed to doe, but we undertooke the whole charge of it, and wee ſuffered not 24. houres to paſſe, before we agreed to a great Levie of Money and Men, to bee imployed againſt the <hi>Rebells,</hi> even in a larger proportion then the Lord Juſtices and Councell there did deſire: and from time to time we have done all for the furtherance thereof though in the midſt of many diſtractions and di<g ref="char:EOLhyphen"/>verſions, but the want of Commiſsions for levying Men, for iſſuing Armes, and divers other Impediments, have been the cauſes of that obſtruction; and I wiſh we had not onely found impediments to our ſelves but alſo incourage<g ref="char:EOLhyphen"/>ments to them. Many of the chiefe Commanders, now in the Head of the Rebells, after we had with your Lordſhips concurrence ſtopt the <hi>Ports</hi> againſt all <hi>Iriſh Papiſts,</hi> have been ſuffered to paſſe by his Majeſties immediate War<g ref="char:EOLhyphen"/>rant, much to the diſcouragement of the Lord Juſtices and the Counſell there: and this procured, as we beleive, by ſome evill Inſtruments, too neere his Re<g ref="char:EOLhyphen"/>gall perſon, without his Majeſties knowledge and intention.</p>
+            <p n="4">4 The obſtruction in proſecution of Delinquents: many we have already brought up to your Lordſhips: divers others wee have been diſcouraged to tranſmit; ſuch difficult proceedings have we met withall; ſuch terrours and diſcountenance have been caſt upon our ſelves and our witneſſes, thoſe who
+<pb n="6" facs="tcp:155251:6"/>
+have ſhewed themſelves, their friends and Patrons, have found it the moſt rea<g ref="char:EOLhyphen"/>dy way to preferment; yea his Majeſties owne hand hath been obtained, his Majeſties Ships imployed for the tranſporting of divers of thoſe who have fled from the Juſtice of the <hi>Parliament.</hi>
+            </p>
+            <p n="5">5. A generall obſtruction and interruption of the proceedings of <hi>Parliament,</hi> by thoſe manifold deſignes of violence (which through Gods mercy we have eſcaped;) by the great and frequent breaches of Priviledge; by the ſubtile en<g ref="char:EOLhyphen"/>deavours to raiſe parties in our Houſe, and jealouſies betwixt the two Houſes.</p>
+            <p n="6">6. The obſtruction in providing for the defence of the Kingdome, that wee might be enabled to reſiſt a forraigne Enemy, to ſuppreſſe all civill Inſurrecti<g ref="char:EOLhyphen"/>ons; and what a preſsing neceſsity there is of this, the exceeding great decaies in the Navie, in the Forts, the manifold defects in the power of ordering the <hi>Militia</hi> of the <hi>Kingdome,</hi> and <hi>meanes</hi> of furniſhing them with Munition, are ſufficient evidences known to none better then to your Lordſhips, and what endeavour we have uſed to remove them (but hitherto without that ſucceſſe and concurrence which we expected) and where the ſtop hath been, and upon what good grounds we may claime our own innocencie and faithfulneſſe in this, we deſire no other Witneſſes but your ſelves.</p>
+            <p>Laſtly, I come to the evill influences which have cauſed this diſtemper, and I ſhall content my ſelfe to mention ſome few of thoſe which are moſt appa<g ref="char:EOLhyphen"/>rant and Important.</p>
+            <p n="1">1. In the firſt place, I ſhall remember the evill Counſels about the King, whereof we have often complained. Diſeaſes of the brain are moſt dangerous, becauſe from thence Senſe and Motion are derived to the whole body. The malignity of evill Counſels will quickly be infuſed into all parts of the State. None can doubt but we have exceedingly laboured under moſt dangerous and miſchievous Counſels. This evill influence hath been the cauſe of the prepara<g ref="char:EOLhyphen"/>tion of Warre with <hi>Scotland,</hi> of the procuring a Rebellion in <hi>Ireland,</hi> of corrup<g ref="char:EOLhyphen"/>ting Religion, ſuppreſſing the Liberty of this Kingdome, and of many fear<g ref="char:EOLhyphen"/>full and horrid attempts, to the ſubverting the very being of Parliament, which was the onely hopefull meanes of oppoſing and preventing all the reſt: And this doth ſtill appeare to be the moſt predominant evill of the time; whereat wee need not wonder, when wee conſider how Counſellours have been pre<g ref="char:EOLhyphen"/>ferred and prepared. And herein I appeale to your Lordſhips own conſciences, whether the giving and the countenancing of evill Counſell, hath not been almoſt the onely way to favour and advancement.</p>
+            <p n="2">2. The diſcouragement of good Counſell<hi>:</hi> divers honeſt and approved Counſellors have been put from their places: others ſo diſcountenanced, as that the way of favour hath been ſhut againſt them, and that of danger and de<g ref="char:EOLhyphen"/>ſtruction onely open to them,</p>
+            <p n="3">3. The great power that an intereſſed and factious Party hath in the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> by the continuance of the Votes of the Biſhops and Popiſh Lords in your Lordſhips Houſe<hi>:</hi> and the taking in of others both out of the Houſe of <hi>Commons,</hi> and otherwiſe, to increaſe their ſtrength.</p>
+            <p n="4">4. The ſomenting and cheriſhing of a Malignant party throughout the whole Kingome</p>
+            <p n="5">
+               <pb n="7" facs="tcp:155251:6"/>
+5. The manifold jealouſies betwixt the King, his <hi>Parliament,</hi> and good Sub<g ref="char:EOLhyphen"/>jects, whereby his protection and favour hath in a great meaſure been with<g ref="char:EOLhyphen"/>held from them: their inclination and reſolution to ſerve, and aſſiſt him, hath been very much hindered and interrupted: we have often ſuffered under the miſ-interpretation of good Actions, and falſe imputation of evill, which we never intended. So that we may juſtly purge our ſelves from all guilt of be<g ref="char:EOLhyphen"/>ing Authors of this jealouſie and miſ-underſtanding: We have been, and are ſtill ready to ſerve his Majeſty with our lives and fortunes, with as much cheerefulneſſe and earneſtneſſe of affection, as ever any Subjects were; &amp; we doubt not but our proceedings will ſo manifeſt this, that we ſhall be as clear in the apprehenſion of the World, as wee are in the Teſtimony of our owne Conſciences.</p>
+            <p>I am now come to a concluſion, and I have nothing to propound to your Lordſhips by way of requeſt or deſire from the Houſe of Commons; I doubt not but your judgements will tell you, what is to be done; your conſciences, your Honours, your intereſts will call upon you for the doing of it; The Commons will be glad to have your help and concurrence in ſaving of the Kingdome; but if they ſhould faile of it, it ſhall not diſcourage them in do<g ref="char:EOLhyphen"/>ing their duty. And whether the Kingdome bee loſt or ſaved (as through Gods bleſſing I hope it will be) they ſhall be ſorry that the ſtory of this pre<g ref="char:EOLhyphen"/>ſent <hi>Parliament</hi> ſhould tell Poſterity, that in ſo great danger and extremitie, the Houſe of <hi>Commons</hi> ſhould bee inforced alone to undertake thoſe courſes which are neceſſary for the ſaving of it, and that the Houſe of Peeres ſhould have no part in the honour of thoſe indeavours, your great Eſtates, and high degrees of Nobility, giving you ſo large an Interreſt in the good ſucceſſe of them.</p>
+            <p>My Lords, conſider what the preſent neceſſities and dangers of the Com<g ref="char:EOLhyphen"/>mon-wealth require, what the <hi>Commons</hi> have reaſon to expect, to what en<g ref="char:EOLhyphen"/>deavours and Counſells the concurrent deſires of all the people doe invite you: ſo that applying your ſelves to the preſervation of the King and Kingdome, I may bee bold to aſſure you in the name of all the <hi>Commons</hi> of <hi>England;</hi> that you ſhall be bravely ſeconded.</p>
+         </div>
+         <div type="message">
+            <head>His Majeſties Meſſage ſent to the Houſe of Commons, concerning Licences granted by his Majeſty, to ſeverall perſons to paſſe into IRELAND.</head>
+            <p>HIS Majeſty taking notice of a Speech, pretending in the Title, to have been delive<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Pym</hi> in a Conference, and prin<g ref="char:EOLhyphen"/>ted by Order of the Houſe of Commons, in which it is affirmed, That ſince the ſtop upon the Ports againſt all Iriſh Papiſts by both Houſes, many of the chiefe Commanders, now in the head of the Rebells, have been ſuffered to paſſe by his Majeſties immediate
+<pb n="8" facs="tcp:155251:7"/>
+Warrant; and being very certaine of having uſed extreme Caution in the granting of Paſſeports into <hi>Ireland;</hi> So that He conceives, ei<g ref="char:EOLhyphen"/>ther this Paper not to have been ſo delivered and printed, as it pre<g ref="char:EOLhyphen"/>tends, or this Houſe to have received ſome miſ-information;</p>
+            <p>His Majeſty would be reſolved, whether this Speech were ſo de<g ref="char:EOLhyphen"/>livered and Printed; and if it were, would have this Houſe to re<g ref="char:EOLhyphen"/>view upon what Informations that particular was grounded, that either that may be found upon re-examination to have been falſe, and both this Houſe and his Majeſty injured by it, or that his Ma<g ref="char:EOLhyphen"/>jeſty may know by what meanes, and by whoſe fault, His Autho<g ref="char:EOLhyphen"/>rity hath been ſo highly abuſed, as to be made to conduce to the aſ<g ref="char:EOLhyphen"/>ſiſtance of that Rebellion, which hee ſo much deteſts and abhors, and that He may ſee himſelfe fully vindicated from all reflections of the leaſt ſuſpition of that kinde.</p>
+            <div type="answer">
+               <head>The Anſwer of the Houſe of Commons.</head>
+               <p>YOur Majeſties moſt loyall and faithfull Subjects, the Com<g ref="char:EOLhyphen"/>mons now aſſembled in <hi>Parliament,</hi> have taken into their ſerious conſideration the Meſſage received from your Majeſty, the ſe<g ref="char:EOLhyphen"/>venth of this inſtant <hi>February;</hi> and doe acknowledge that the Speech therein mentioned to be delivered by Maſter <hi>Pym</hi> in a Conference, was Printed by their Order, and that what was therein delive<g ref="char:EOLhyphen"/>red, was agreeable to the ſenſe of the Houſe. And touching that paſſage wherein it is affirmed, that ſince the ſtop upon the Ports againſt all Iriſh Papiſts by both Houſes, many of the chiefe Commanders now in the head of the Rebels, have been ſuffered to paſſe by your Majeſties immediate Warrant, They preſent your Maieſty with this their humble Anſwer.</p>
+               <p>That they have received divers advertiſements, concerning the ſeverall perſons, Iriſh Papiſts and others, which have obtained your Majeſties immediate Warrants for their paſsing into <hi>Ireland</hi> ſince the Order of Reſtraint of both Houſes; ſome of which (as they have been informed) ſince their comming into <hi>Ireland,</hi> have joyned with the Rebells, and been Commanders amongſt them, &amp; ſome others have been ſtaid, and are yet in ſafe Cuſtody, particular<g ref="char:EOLhyphen"/>ly the Lord <hi>Delvin,</hi> and foure other perſons in his company, where<g ref="char:EOLhyphen"/>of one is thought to be a Prieſt: One Colonell <hi>Butler</hi> Brother to the Lord <hi>Minyart</hi> now in Rebellion, and Sir <hi>George Hamilton,</hi> all which are Papiſts: And one other (as is reported) being Son of the Lord <hi>Mettersfield,</hi> whoſe Father and Brother are both in Reb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lli<g ref="char:EOLhyphen"/>on.
+<pb n="9" facs="tcp:155251:7"/>
+The particular names of others wee have not yet received, but doubt not but upon examination they may be diſcovered.</p>
+               <p>And your Majeſties moſt faithfull Subjects are very ſorry, that the extreame caution which your Majeſtie hath uſed, hath been ſo ill ſeconded, with the dilligence and faithfulneſſe of your Mini<g ref="char:EOLhyphen"/>niſters; and that your Royall Authority ſhould be ſo highly abu<g ref="char:EOLhyphen"/>ſed; Although, as it was expreſſed in that Speech by Maſter <hi>Pym,</hi> we believe it was by the procurement of ſome evill Inſtruments too, neer your Royall Perſon, without your Majeſties knowledge and intention. And wee beſeech your Majeſtie to take ſuch courſe, That not onely your Honour may be vindicated for the time paſ<g ref="char:EOLhyphen"/>ſed, but your Kingdome may be ſecured from the like miſchiefe for the time to come.</p>
+            </div>
+         </div>
+         <div type="reply">
+            <head>His Majeſties Reply to the Houſe of Commons Anſwer, Concerning Licences granted by the King to perſons to goe into <hi>IRELAND.</hi>
+            </head>
+            <p>AS His Majeſty hath expreſſed a great deſire to give His Houſe of Commons all poſsible ſatisfaction to all their juſt Requeſts, and a readineſſe to rectifie or retract any thing done by Himſelfe, which might ſeem to trench upon their Priviledges by any mi<g ref="char:EOLhyphen"/>ſtake of His, ſo he doubts not they will be ready upon all occaſi<g ref="char:EOLhyphen"/>ons to manifeſt an equall tendernes and regard of His Majeſties Honour and Reputation with His good Subjects<hi>:</hi> and therefore His Majeſtie expects they ſhould review His Meſſage of the ſe<g ref="char:EOLhyphen"/>venth of this Moneth, concerning a paſſage in Maſtes <hi>Pyms</hi> Speech, and their Anſwer ſent to his Majeſtie by ſome of their Members on the tenth of the ſame, with which His Maieſtie can by no meanes reſt ſatisfied.</p>
+            <p>His Maieſties Exception in that Meſſage was, That it was af<g ref="char:EOLhyphen"/>firmed in that Speech, That ſince the ſtop upon the Ports againſt all Iriſh Papiſts, by both Houſes, many of the chiefe Comman<g ref="char:EOLhyphen"/>ders now in the head of the Rebells, have been ſuffered to paſſe by His Maieſties immediate Warrant.</p>
+            <div type="answer">
+               <head>To this the Anſwer is:</head>
+               <p>THat the Speech mentioned in that Meſſage to be delivered by maſter <hi>Pym,</hi> was printed by their Order, and that what was therein delivered was agreeable to the ſenſe of the Houſe: that they have received divers Advertiſements concerning ſeverall per<g ref="char:EOLhyphen"/>ſons
+<pb n="10" facs="tcp:155251:8"/>
+Iriſh Papiſts and others, who have obtained His Majeſties im<g ref="char:EOLhyphen"/>mediate Warrant for their paſsing into <hi>Ireland,</hi> ſince the Order of Re<g ref="char:EOLhyphen"/>ſtraint of both Houſes, ſome of which, they have been informed, ſince their comming into <hi>Ireland,</hi> have joyned with the Rebels, and been Commanders amongſt them.</p>
+               <p>His Majeſty is moſt aſſured, no ſuch perſon hath paſſed by His Warrant or Privity, and then he deſires His Houſe of Com<g ref="char:EOLhyphen"/>mons to conſider, whether ſuch a generall Information and Adver<g ref="char:EOLhyphen"/>tiſement (in which there is not ſo much as the name of any parti<g ref="char:EOLhyphen"/>cular perſon mentioned) be ground enough for ſuch a direct and poſitive Affirmation, as is made in that Speech, which in reſpect of the place and Perſon, and being now acknowledged to be agree<g ref="char:EOLhyphen"/>able to the ſenſe of the Houſe, is of that authority, that his Majeſty may ſuffer in the affections of many of His good Subjects, and fall under a poſsible conſtruction (conſidering many ſcandalous pam<g ref="char:EOLhyphen"/>phlets to ſuch a purpoſe) of not being ſenſible enough of that Re<g ref="char:EOLhyphen"/>bellion, ſo horrid and odious to all Chriſtians, by which in this di<g ref="char:EOLhyphen"/>ſtraction, ſuch a danger might poſsibly enſue to His Majeſties Per<g ref="char:EOLhyphen"/>ſon and Eſtate, as he is well aſſured His Houſe of Commons will uſe their utmoſt endeavours to prevent. And therefore His Maje<g ref="char:EOLhyphen"/>ſty thinks it very neceſſary, and expects that they name thoſe perſons who by His Majeſties Licence have paſſed into <hi>Ireland,</hi> and are now there in the head of the Rebels; Or that if upon their re-examina<g ref="char:EOLhyphen"/>tion they doe not finde particular Evidence to prove that Aſſertion (as His Majeſty is confident they never can) as this Affirmation which may reflect upon His Majeſty, is very publike, ſo they will publiſh ſuch a Declaration whereby that miſtake may be diſcove<g ref="char:EOLhyphen"/>red, His Majeſty being the more tender in that particular, which hath reference to <hi>Ireland,</hi> as being moſt aſſured that He hath been, and is, from His Soule, reſolved to diſcharge His Duty (which God will require at His hands) for the reliefe of His poore Proteſtant Subjects there and the utter rooting out that Rebellion; So that Service hath not ſuffered any, but neceſſary delayes by any act of His Majeſties, for the want of any thing propoſed to His Majeſty, or within His Majeſties power to doe.</p>
+               <p>For the perſons named in the Anſwer, His Majeſty ſaith, that Colonell <hi>Butler,</hi> and the ſon of the Lord <hi>Nettersfield,</hi> obtained His Warrants for their paſſage into <hi>Ireland,</hi> at His Majeſties being in <hi>Scotland,</hi> which was long (as His Majeſty thinks) before the Order of both Houſes: His Majeſty knowing the former of them to be
+<pb n="11" facs="tcp:155251:8"/>
+one who hath alwayes made Profeſsions to His Service, and to be Uncle to the Earle of <hi>Ormond,</hi> of whoſe affection to the Proteſtant Religion, and His Majeſties Service, His Majeſty hath great cauſe to be aſſured: And the latter being a perſon of whom, at that time, there was no ſuſpicion to His <hi>Majeſties</hi> knowledge. For the other, it may be they have obtained Warrants from his <hi>Majeſty</hi> ſince the ſaid Order, but his <hi>Majeſty</hi> aſſures the <hi>Parliament</hi> that he had no intimati<g ref="char:EOLhyphen"/>on of ſuch an Order, till after ſtay made of Sir <hi>George Hamilton,</hi> who was the laſt that had any Licence from his <hi>Matie</hi> to paſſe for <hi>Ireland.</hi>
+               </p>
+               <p>And His Majeſty having ſince this Anſwer from the Houſe of Commons uſed all poſsible means, by the examining His own Me<g ref="char:EOLhyphen"/>mory, and the Notes of His Secretaries, to finde what Warrants have beene granted by Him, and to what perſons, doth not finde, That He hath granted any to any Iriſh, but thoſe who are named by the Houſe of Commons, and in December laſt to the Earle of Saint <hi>Albans,</hi> and to two of his ſervants and to one <hi>Walter Terrel</hi> a poore man, they being ſuch as His Majeſty is aſſured are not with the Rebels, and much leſſe chiefe Commanders over them. And though it may be, the Perſons named by the Houſe of Commons are Papiſts, yet His Majeſty at that time thought it not fit in reſpect of their Alliance in that Kingdome to ſuch Perſons of great power, of whom His Majeſty hoped well, to diſcover any ſuſpition of them, the Lords Juſtices having declared by their Letters (which Letters were not diſapproved of by the Parliament here) that they were ſo far from owning a publike jealouſie of all Papiſts there, that they had thought fit to put Armes into the hands of divers Noble men of the Pale of that Religion who made Profeſsions to His Ma<g ref="char:EOLhyphen"/>jeſties Service and deſired the ſame. And ſince ſo great a truſt repo<g ref="char:EOLhyphen"/>ſed in ſome of the Lords of that Religion was not diſapproved by the Parliament here, His Majeſty could not imagine it unſafe or unfit for Him to give Licences to ſome few to paſſe into that King<g ref="char:EOLhyphen"/>dome, who, though Papiſts, profeſſed due Allegiance and Loyalty to His Majeſty.</p>
+               <p>And therefore unleſſe the firſt Affirmation of the Houſe of Commons can be made good by ſome particulars, His Majeſty doth not know that His Miniſters have failed in their diligence and faithfulneſſe to His Majeſty in this point, or that His honour hath ſuffered ſo much by any Act of His owne, as that it needs be vindicated for the time paſt by any other way then ſuch a Declara<g ref="char:EOLhyphen"/>tion which He expects from this Houſe, as in Duty and Juſtice due to His Majeſty.</p>
+            </div>
+         </div>
+         <div type="answer">
+            <pb n="12" facs="tcp:155251:9"/>
+            <head>
+               <hi>The Anſwer of both Houſes of Parliament to the Kings Meſſage. Sent to his moſt excellent Majeſty, March</hi> 16. 1641.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty.</salute>
+            </opener>
+            <p>YOur Majeſties moſt humble and faithfull Subjects, the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes of the Commons Houſe of <hi>Parliament,</hi> having con<g ref="char:EOLhyphen"/>ſidered Your Majeſties Reply to their Anſwer, touching ſuch Perſons as have been licenſed by your Majeſty to paſſe into <hi>Ireland,</hi> doe moſt humbly beſeech your Majeſty to believe, that they ſhall alwayes with thankfulneſſe and joy receive from your Majeſty any ſatisfactory Anſwer to their juſt re<g ref="char:EOLhyphen"/>queſts: And, as they hope, they ſhall finde in your Majeſty a readineſſe to re<g ref="char:EOLhyphen"/>ctifie thoſe things which have been done to their prejudice, ſo will they bee carefull to remove all apprehenſions of their actions or ſpeeches, which may ſeeme to caſt any diſhonour upon your Majeſty.</p>
+            <p>For your Majeſties better ſatisfaction concerning the poſitive affirmation, that many of the chiefe Commanders now in the head of the Rebells (after the Ports were ſtopped by order of both Houſes) have been ſuffered to paſſe by your Majeſties immediate Warrant. May it pleaſe your Majeſty to conſider that herein they have affirmed nothing but what they had cauſe to believe was true, the grounds whereof they moſt humbly preſent to your Majeſty.</p>
+            <p>The firſt ground is this, that both Houſes of <hi>Parliament,</hi> (having upon your Majeſties commendation taken into their care the ſuppreſſion of the Rebellion of <hi>Ireland)</hi> had reaſon to be eſpecially watchfull over the Ports, becauſe the Rebells abounding in numbers of men, for the moſt part ignorant of the uſe of their Armes, could by no meanes become dangerous or formidable to this Kingdome, but by the acceſſe of Souldiers and Commanders, wherewith they were like to be furniſhed either out of <hi>France,</hi> or <hi>Flanders,</hi> from both which places the paſſage into <hi>Ireland</hi> is ſpeedy and eaſie through this Kingdome, and thereof they could not chooſe but bee very ſenſible of whatſoever gave liberty or opportunity to ſuch a paſſage as of a very hurtfull and dangerous grievance, for prevention whereof they did upon the 7. of <hi>Novembeer</hi> agree upon an Or<g ref="char:EOLhyphen"/>der, and reſtraine all paſſage into <hi>Ireland,</hi> but upon due and ſtrict examinati<g ref="char:EOLhyphen"/>on by ſuch perſons as were truſted to make thoſe Licences.</p>
+            <p>A ſecond ground, that the other Licence granted to the Lord <hi>Delvin,</hi> and then acknowledged by your Majeſties Anſwer, were ſuch, both in (regard of the perſons to whom they were granted, and the extent of the words in which they were granted,) as were apt to produce ſuch an effect as is mentioned in that poſitive affirmation, that is to open a way for the paſſage of Papiſts and o<g ref="char:EOLhyphen"/>ther dangerous perſons to joyne with the Rebells, and to bee Heads and Com<g ref="char:EOLhyphen"/>manders amongſt them, which is thus proved.</p>
+            <p>The Waarrant granted to Colonell <hi>Butler,</hi> (ſince the order of reſtraint by both Houſes of <hi>Parliament)</hi> did extend to all Ports of <hi>England</hi> and <hi>Scotland,</hi> and did give free paſſage to himſelfe and to his Company, without any qualifica<g ref="char:EOLhyphen"/>tion of perſons, or limitation of number, and this Colonell was himſelfe a Papiſt, had a brother in Rebellion, and Generall of the Rebells in M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſter, was expected and very much deſired by thoſe Rebells, who for a long time kept
+<pb n="13" facs="tcp:155251:9"/>
+a Regiment to be commanded by him, as we have been credibly informed.</p>
+            <p>The ſecond was granted to a ſonne of the Lord <hi>Nettersfield,</hi> which Lord had foure ſonnes in <hi>England</hi> ſince the Rebellion, one of which is ſetled in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> three others intended to paſſe into <hi>Ireland,</hi> and were all dangerous per<g ref="char:EOLhyphen"/>ſons being Papiſts, bred in the warres, in the ſervice of the King of <hi>Spayne,</hi> and one of them lately become a Jeſuite.</p>
+            <p>The third to the Lord <hi>Delvin</hi> extends to himſelfe, and foure perſons more unnamed, that one of thoſe who ſhould have paſt with him is taken to be a Jeſuit, and another who calls himſelfe <hi>Ploncket,</hi> ſeems to bee a man of ſome breeding and quality, and like to have been ſerviceable to the Rebells, and to have done miſchiefe, if he had gone over.</p>
+            <p>The fourth to Sir <hi>George Hamelton,</hi> and three others unnamed: this Gentle<g ref="char:EOLhyphen"/>man is likewiſe a profeſt Papiſt, and may be doubted to be of the party of the Rebells, one of that name being mentioned in the inſtructions of Sempill the Jeſuit, amongſt divers other dangerous perſons of the Popiſh party in <hi>Scotland,</hi> and <hi>Ireland,</hi> which inſtructions were found in a ſhip ſtayed in <hi>Cornwall,</hi> which was going into <hi>Ireland,</hi> with divers Jeſuits, Souldiers and others, for the incou<g ref="char:EOLhyphen"/>ragement of the Rebells.</p>
+            <p>A third ground is this, That by vertue and authority of theſe Licences ſeve<g ref="char:EOLhyphen"/>rall perſons have paſſed over, which are now in actuall rebellion, and joyned with the Rebells, and ſome have commanded amongſt them, which is thus proved:</p>
+            <p>One Captain <hi>Sutton,</hi> did by vertue and authority of your Majeſties Licence imbarque at White-haven, in the Company of Colonell <hi>Butler,</hi> and was dri<g ref="char:EOLhyphen"/>ven back by foule weather; whereupon the Colonell ſtayed and went to <hi>Che<g ref="char:EOLhyphen"/>ſter;</hi> but that Captain reimbarqued himſelfe in the ſame Bottome, and paſſed into <hi>Ireland,</hi> where he went into Rebellion with the Lord <hi>Dunſany,</hi> and hath ſince obtained the place of a Colonell amongſt the Rebells, as we are very cre<g ref="char:EOLhyphen"/>dibly informed.</p>
+            <p>Two of the ſonnes of the Lord <hi>Nettersfield,</hi> one a Jeſuite, and the other a Soul<g ref="char:EOLhyphen"/>dier, paſſed into <hi>Ireland</hi> in <hi>December</hi> laſt, both of them by vertue of your Maje<g ref="char:EOLhyphen"/>ſties warrant, as we have cauſe to beleive, for that they went both together in one ſhip, and the Licence acknowledged to be granted by your warrant, muſt needs be granted to one of them, ſeeing the other brother, who lately endea<g ref="char:EOLhyphen"/>voured to paſſe over, did produce no Licence, and upon his examination doth abſolutely deny that he had any.</p>
+            <p>A fourth ground (which we humbly offer to your Majeſty) is this. That your Majeſty cannot be aſſured that no other did paſſe upon your Licence, as your Majeſty doth conceive, and are pleaſed to expreſſe in your Anſwer, &amp; that we had great cauſe to believe that divers other had paſſed over by your Warrant, beſides the perſons afore-mentioned, and that for theſe reaſons:</p>
+            <p n="1">1. Becauſe we received ſuch a generall information, that divers now in the head of the Rebells were paſſed by your Majeſties Licence, which being true in part, and eaſie to be effected, in regard of the nature and extent of the War<g ref="char:EOLhyphen"/>rants<g ref="char:punc">▪</g> and probable to be attempted, in regard of the ſubtilty and vigilancy of that party, to make uſe of all advantages, ſeemed to deſerve credit, which we ſhould not have given to it, if it had been a naked information without ſuch circumſtances.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:155251:10"/>
+2. Becauſe we had concurring advertiſements from <hi>Ireland</hi> and <hi>Cheſter,</hi> that divers Prieſts, Jeſuites, and Popiſh Commanders had paſſed over, &amp; were landed there and particularly ſome of Colonell <hi>Butlers</hi> Company and that the Officers of the Ports had kept no entry of the names of theſe perſons, or of the VVarrants by which they were tranſported.</p>
+            <p>Theſe we hope will be ſufficient to perſwade your Majeſty to believe, that as we had ſome cauſe to give credit to the ſaid informations, ſo we had no inten<g ref="char:EOLhyphen"/>tion to make any ill uſe of them to your Majeſties diſhonour, but did impute the blame to your Miniſters, who might have been more carefull to have in<g ref="char:EOLhyphen"/>formed your Majeſty of the Quality of thoſe perſons named in your Licences, and ſo to have limited them, that they might not have extended to others, as they did how many and dangerous ſoever.</p>
+            <p>And they pray your Majeſty to reſt aſſured, that they ſhall alwayes be tender of your Honour and reputation with your good Subjects, and for this cauſe have made this true Declaration of the full ſtate of this matter, that they may thinke no otherwiſe of it, then the truth, and in all things ſhall labour to eſta<g ref="char:EOLhyphen"/>bliſh a good underſtanding and confidence, betwixt your Majeſty, and your people, which they heartily deſire and pray for, as the chiefeſt means of preſer<g ref="char:EOLhyphen"/>ving the Honour, ſafety, and proſperity of your Majeſty, and your Kingdom.</p>
+         </div>
+         <div type="answer">
+            <head>His Majeſties Anſwer to a Meſſage ſent to Him by the Houſe of Commons, concerning Licences granted by Him to perſons to goe into IRELAND.</head>
+            <p>HIs Majeſty hath ſeen and conſidered the Meſſage preſented to him by the Lord <hi>Compton,</hi> and Mr. <hi>Baynton,</hi> the 19. of <hi>March</hi> 1641. at <hi>York;</hi> Touching ſuch perſons as have been licenced by his <hi>Majeſty</hi> to paſſe into <hi>Ireland.</hi>
+            </p>
+            <p>Though he will not inſiſt upon what little reaſon they had to ſuſpect that ſome il-affected perſons had paſſed into <hi>Ireland,</hi> under colour of his <hi>Majeſties</hi> Li<g ref="char:EOLhyphen"/>cence (Inferences being ſlender proofs to ground beliefe upon) yet hee muſt needs avow, that for any thing that is yet Declared, He cannot ſee any ground why <hi>Mr. Pym</hi> ſhould ſo boldly affirme before both Houſes of <hi>Parliament, That ſince the ſtop upon the Ports by both Houſes againſt all Iriſh Papiſts, many of the chiefe Commanders now in the head of the Rebells have been ſuffered to paſſe by His Majeſties immediate Warrant;</hi> For as yet there is not any particular perſon named that is now ſo much as in Rebellion (much leſſe in the Head of the Rebells) to whom His <hi>Majeſty</hi> hath given Licence;</p>
+            <p>And therefore according to his <hi>Majeſties</hi> Reply upon that Subject, His <hi>Majeſty</hi> expects, That his Houſe of <hi>Commons</hi> publiſh ſuch a Declaration, whereby this miſtaking may be cleared. That ſo all the VVorld may ſee his <hi>Majeſties</hi> Cau<g ref="char:EOLhyphen"/>tion in giving of Paſſes; and likewiſe, that his Miniſters have not abuſed His <hi>Majeſties</hi> Truſt, by any ſurreptitious VVarrants.</p>
+            <p>And laſtly, His <hi>Majeſty</hi> expects. That henceforth there be more Warineſſe uſed, before ſuch publike Aſperſions be laid, unleſſe the Grounds bee before<g ref="char:EOLhyphen"/>hand better warranted by ſufficient Proofes.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
